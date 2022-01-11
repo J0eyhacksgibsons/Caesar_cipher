@@ -10,5 +10,5 @@ For Windows you can visit the Python website below:<br/>
 Choose your windows version and follow instructions from there.<br/>
 To download the code from Linux enter ```git clone https://github.com/J0eyhacksgibsons/Caesar_cipher.git```<br/>
 For Windows: you can copy it or save it as a zip from the top right of the code.<br/>
-To run the code in the command line while in the same directory ```python password_generator.py```<br/>
+To run the code in the command line while in the same directory ```python caesar_cipher.py```<br/>
 It should work from there.<br/>
